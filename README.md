@@ -4,7 +4,7 @@ Salient Object Detection based on Shadowed Set and Illumination-guided Network
 # Results
 
 <p align="center">
-    <img src="results.png"/> <br />
+    <img src="results/result1.png"/> <br />
     <em> 
     Figure 1: Subjective comparison among different methods. 
     </em>
